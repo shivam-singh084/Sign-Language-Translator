@@ -1,0 +1,7 @@
+# Environment variables
+.venv
+venv/
+venv.bak/
+
+# VS Code settings
+.vscode/
