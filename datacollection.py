@@ -53,7 +53,7 @@ while True :
             cv2.imwrite(f'{folder}/Image_{time.time()}.jpg', imgWhite)
             print(counter)
         else : 
-            print("No Hnad Detected")
+            print("No Hand Detected")
         
 
 
